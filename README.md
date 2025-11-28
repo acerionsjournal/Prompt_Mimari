@@ -1,5 +1,6 @@
 AI Prompt Mimarı
 ==========================================
+<img width="2528" height="1696" alt="qebohzTSIKXbd-n6o9eI_" src="https://github.com/user-attachments/assets/284ed772-e83f-4dd4-87b0-28c914a5b766" />
 
 Kurulum:
 Bu program kurulum gerektirmez. Doğrudan çalıştırabilirsiniz.
